@@ -1,0 +1,9 @@
+firmware/*.elf
+firmware/*.map
+firmware/*.lst
+firmware/*_ext.bin
+hardware/*-backups/
+hardware/*.kicad_prl
+hardware/fp-info-cache
+hardware/midicard-drc.rpt
+hardware/midicard_unrouted.*

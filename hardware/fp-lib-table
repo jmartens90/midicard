@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "midicard")(type "KiCad")(uri "${KIPRJMOD}/lib/midicard.pretty")(options "")(descr "MIDI card custom footprints"))
+)
